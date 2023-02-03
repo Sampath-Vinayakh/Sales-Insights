@@ -20,4 +20,4 @@
 
 - This dashboard could help in increasing the profit margin at least by 1% in the next two quarters.
 
-- Refer to this to view the visualization 
+- Refer to this [link](sales_profit_insights.pdf) to view the visualization 
